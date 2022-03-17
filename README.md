@@ -8,7 +8,7 @@
 
 - Busco trabalho na área de programação; 👨🏻‍💻 
 - Experiência profissional: Trabalhei durante dois anos no setor de desenvolvimento em uma fábrica de calçados de Campo Bom chamada GVD. 💼
-- Formação acadêmica: Cursando a sétima edição do programa Full Stack Web Developer - <a href="https://growdev.com.br" alt="Growdev">Growdev.</a> 💻
+- Formação acadêmica: Cursando a sétima edição do programa Full Stack Web Developer - <a href="https://growdev.com.br" alt="Growdev">Growdev.</a>
 - Email: p3drohdasilva@gmail.com 🌐 
 - Hobbies: Fazer exercícios físicos e sair com amigos. ⚡⚽ 
 - Linguagens estudadas: HTML, CSS, JavaScrip, TypeScript e NodeJS. 🎓✍️
