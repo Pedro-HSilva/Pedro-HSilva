@@ -22,12 +22,13 @@
   <div style="display: inline_block" div align="center"><br>
 
 </div>
-
+<div align="center">   
+<img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="Synthwave" height="300" width="500" data-canonical-src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" style="max-width: 100%;"> </div>
+  
 ##
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
   <div align="center">
   <a href="https://instagram.com/pedrinhosilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yWFf9QPD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pedro-silva-647152205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-<div align="center">   
-<img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="Synthwave" height="300" width="500" data-canonical-src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" style="max-width: 100%;"> </div>
+
