@@ -1,4 +1,4 @@
-### <h1 align="center">I'm <a href="https://github.com/Pedro-HSilva">Pedro Silva<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+### <h1 align="center">I'm <a href="https://github.com/Pedro-HSilva">Pedro Henrique da Silva<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 ##
 
 - Procuro trabalho na área de programação; 👨🏻‍💻 
