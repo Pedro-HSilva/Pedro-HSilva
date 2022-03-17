@@ -1,8 +1,8 @@
 ### <h1 align="center">I'm <a href="https://github.com/Pedro-HSilva">Pedro Henrique da Silva<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 ##
 
-- Procuro trabalho na área de programação; 👨🏻‍💻 
-- Experiência profissional: Trabalhei durante dois anos no setor de desenvolvimento, em uma fábrica de calçados de Campo Bom chamada GVD. 💼
+- Buscp trabalho na área de programação; 👨🏻‍💻 
+- Experiência profissional: Trabalhei durante dois anos no setor de desenvolvimento em uma fábrica de calçados de Campo Bom chamada GVD. 💼
 - Formação acadêmica: Cursando a sétima edição do programa Full Stack Web Developer - Growdev 💻
 - Email de contato: p3drohdasilva@gmail.com 🌐 
 - Hobbies: Fazer exercícios físicos e sair com amigos. ⚡⚽ 
