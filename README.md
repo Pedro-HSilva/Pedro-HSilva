@@ -4,9 +4,9 @@
  <p align="center">
  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
-##
 
-- Buscp trabalho na área de programação; 👨🏻‍💻 
+
+- Busco trabalho na área de programação; 👨🏻‍💻 
 - Experiência profissional: Trabalhei durante dois anos no setor de desenvolvimento em uma fábrica de calçados de Campo Bom chamada GVD. 💼
 - Formação acadêmica: Cursando a sétima edição do programa Full Stack Web Developer - Growdev 💻
 - Email de contato: p3drohdasilva@gmail.com 🌐 
