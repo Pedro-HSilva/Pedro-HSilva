@@ -4,7 +4,7 @@
  <p align="center">
  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
 </p>
-<!-- <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/> -->
+
 
 - Busco trabalho na área de programação; 👨🏻‍💻 
 - Experiência profissional: Trabalhei durante dois anos no setor de desenvolvimento em uma fábrica de calçados de Campo Bom chamada GVD. 💼
